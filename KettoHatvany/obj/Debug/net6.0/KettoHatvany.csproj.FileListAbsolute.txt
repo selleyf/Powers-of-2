@@ -1,0 +1,15 @@
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\bin\Debug\net6.0\KettoHatvany.exe
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\bin\Debug\net6.0\KettoHatvany.deps.json
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\bin\Debug\net6.0\KettoHatvany.runtimeconfig.json
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\bin\Debug\net6.0\KettoHatvany.dll
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\bin\Debug\net6.0\KettoHatvany.pdb
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.csproj.AssemblyReference.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.AssemblyInfoInputs.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.AssemblyInfo.cs
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.csproj.CoreCompileInputs.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.dll
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\refint\KettoHatvany.dll
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.pdb
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\KettoHatvany.genruntimeconfig.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\KettoHatvany\KettoHatvany\obj\Debug\net6.0\ref\KettoHatvany.dll
